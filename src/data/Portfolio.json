@@ -1,0 +1,16 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/GoogleClone/Google Interface Clone.png",
+      "title": "Cloning Google interface",
+      "description": "NextJS, ReactJS, Styled-Components",
+      "url": "https://clone-google-interface-next-styled-comp.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/StockSystem/Sistema de Estoque.png",
+      "title": "Stock System",
+      "description": "NextJS, ReactJS, Chackra UI",
+      "url": "https://stock-system.vercel.app//"
+    }
+  ]
+}
