@@ -1,3 +1,12 @@
-# This is my portfolio made with react, sass, animate.css, loaders.css emailjs. 
+# This is my portfolio 
 
-## soon I will add the projects page
+## Made with:
+
+- ReactJS
+- Sass
+- Animate.css
+- loaders.css
+- emailJS
+
+
+### soon I will add more projects to the projects page
