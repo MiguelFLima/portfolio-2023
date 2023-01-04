@@ -28,9 +28,26 @@ const Portfolio = () => {
             <div className="content">
               <p className="title">{project.title}</p>
               <h4 className="description">{project.description}</h4>
-              <button onClick={() => window.open(project.url)} className="btn">
-                View
-              </button>
+              {project.url === "Private" ? (
+                <button className="btn">{project.url}</button>
+              ) : (
+                <button
+                  onClick={() => window.open(project.url)}
+                  className="btn"
+                >
+                  Deploy
+                </button>
+              )}
+              {project.githublink === "Private" ? (
+                <button className="btn">Private</button>
+              ) : (
+                <button
+                  onClick={() => window.open(project.githublink)}
+                  className="btn"
+                >
+                  Git Hub
+                </button>
+              )}
             </div>
           </div>
         ))}

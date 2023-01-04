@@ -4,13 +4,57 @@
       "cover": "/portfolio/GoogleClone/Google Interface Clone.png",
       "title": "Cloning Google interface",
       "description": "NextJS, ReactJS, Styled-Components",
-      "url": "https://clone-google-interface-next-styled-comp.vercel.app/"
+      "url": "https://clone-google-interface-next-styled-comp.vercel.app/",
+      "githublink": "https://github.com/MiguelFLima/clone-google-interface-next-styled-comp"
     },
     {
       "cover": "/portfolio/StockSystem/Sistema de Estoque.png",
       "title": "Stock System",
       "description": "NextJS, ReactJS, Chackra UI",
-      "url": "https://stock-system.vercel.app//"
+      "url": "https://stock-system.vercel.app/",
+      "githublink": "https://github.com/MiguelFLima/stock-system"
+    },
+    {
+      "cover": "portfolio/Amazon/amazonClone.png",
+      "title": "Amazon's Clone",
+      "description": "NextJS, ReactJS, Tailwind, Redux Toolkit, Stripe, Firebase, Next-auth",
+      "url": "https://amazon-clone-kappa-ten.vercel.app/",
+      "githublink": "https://github.com/MiguelFLima/amazon-clone"
+    },
+    {
+      "cover": "portfolio/Airbnb/airbnb.png",
+      "title": "Airbnb's old Clone",
+      "description": "NextJS, Tailwind, Calendar, Date Picker",
+      "url": "https://airbnb-interpretation.vercel.app/",
+      "githublink": "https://github.com/MiguelFLima/airbnb-interpretation"
+    },
+    {
+      "cover": "portfolio/Chat App/chat-app.png",
+      "title": "Simple Chat App based on email",
+      "description": "NextJS, Styled-Components, Firebase",
+      "url": "https://chat-app-zeta-taupe.vercel.app/",
+      "githublink": "https://github.com/MiguelFLima/chat-app"
+    },
+    {
+      "cover": "/portfolio/HelpDesk/helpdesk.png",
+      "title": "Helpdesk",
+      "description": "Helpdesk é um gerenciador de chamados onde você pode fazer o crud de chamados e pra cada chamado você pode abrir um 'tramite', que é como se fosse uma etapa da solução do chamado, voce tambem pode fazer todo o crud do tramite e ainda tem o score do mes (relacao entre horas uteis no mes/quanto de horas você tem => o quanto de hora é o tempo que voce levou em todos os tramites que voce particiou no mes.)",
+      "url": "Private",
+      "githublink": "Private"
+    },
+    {
+      "cover": "/portfolio/PortalCompany/portalCompany.png",
+      "title": "Portal Company",
+      "description": "O projeto consiste em três páginas, a página de login, uma do RH, e uma do funcionário, a pessoa que tiver a 'role' de RH, ao fazer login vai ser redirecionado pra página de RH, onde ela poderá fazer  upload de holerites (ilimitados, de uma só vez), a pessoa que tem a 'role' de Funcionário, vai ser redirecionado para a outra página, onde ele poderá ver todos os holerites dele que estão cadastrados no banco de dados. Esse projeto foi feito com uma lib chamada pdfparser, onde precisamos ler cada pdf para saber a qual funcionario ele faz referencia e salvar no seu banco.",
+      "url": "Private",
+      "githublink": "Private"
+    },
+    {
+      "cover": "/portfolio/Testes/tests.png",
+      "title": "academic project to study unit testings with jest and react/testing/library",
+      "description": "React, Jest, React-Testing-Library",
+      "url": "Private",
+      "githublink": "https://github.com/MiguelFLima/bytebank-tests"
     }
   ]
 }
